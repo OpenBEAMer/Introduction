@@ -1,5 +1,5 @@
-# Information
-Information about OpenBEAMer
+# Introduction
+Introduction about OpenBEAMer
 
 # Community
 - Discord: [https://discord.gg/UkbpXZC](https://discord.gg/UkbpXZC)
